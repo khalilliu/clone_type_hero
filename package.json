@@ -1,0 +1,33 @@
+{
+  "name": "font-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "algoliasearch": "^3.24.5",
+    "immutable": "^3.8.2",
+    "prop-types": "^15.6.0",
+    "react": "^16.1.0",
+    "react-autosuggest": "^9.3.2",
+    "react-color": "^2.13.8",
+    "react-dom": "^16.1.0",
+    "react-scripts": "1.0.17",
+    "slate": "^0.30.6",
+    "slate-react": "^0.10.11",
+    "webfontloader": "^1.6.28"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb": "^15.0.1",
+    "eslint-plugin-import": "^2.3.0",
+    "eslint-plugin-jsx-a11y": "^5.0.3",
+    "eslint-plugin-react": "^7.0.1",
+    "react-scripts": "1.0.7",
+    "why-did-you-update": "0.0.8"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
